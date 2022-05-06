@@ -1,4 +1,4 @@
-<hmtl>
+<!DOCTYPE HTML>
 
 <script> 
 	<a>
