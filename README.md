@@ -8,8 +8,10 @@ The are what the people wake up to too be busy and helpful in area that might ch
 # Price: 
 Free 
 R1.50 each page local print shop. Molhakeng. 
+
 # Contract Rates:
 Varies 
+
 # Features:
 * Videos
 * links
@@ -17,7 +19,9 @@ Varies
 * Chrome Version 
 * Edge Version
 * Safari 
+
 # Operating Systems
+
 * Apple: Verison - MAC OS Yosemite 
 * Windows 8 and 10
 * Ubuntu 
@@ -26,8 +30,8 @@ Varies
 # Requirements 
 * Laptops
 * Tablets
-* Computer
-* 
+* Computer (Windows 11)
+
 # Sourcecode:
 * Notepad
 * Visual Studio Code
